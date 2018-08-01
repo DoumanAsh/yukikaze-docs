@@ -1,0 +1,10 @@
+(function() {var implementors = {};
+implementors["yukikaze"] = [{text:"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/fmt/trait.Debug.html\" title=\"trait core::fmt::Debug\">Debug</a> for <a class=\"enum\" href=\"yukikaze/header/enum.ContentEncoding.html\" title=\"enum yukikaze::header::ContentEncoding\">ContentEncoding</a>",synthetic:false,types:["yukikaze::header::ContentEncoding"]},{text:"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/fmt/trait.Debug.html\" title=\"trait core::fmt::Debug\">Debug</a> for <a class=\"struct\" href=\"yukikaze/client/request/struct.Request.html\" title=\"struct yukikaze::client::request::Request\">Request</a>",synthetic:false,types:["yukikaze::client::request::Request"]},{text:"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/fmt/trait.Debug.html\" title=\"trait core::fmt::Debug\">Debug</a> for <a class=\"enum\" href=\"yukikaze/client/response/extractor/enum.BodyReadError.html\" title=\"enum yukikaze::client::response::extractor::BodyReadError\">BodyReadError</a>",synthetic:false,types:["yukikaze::client::response::extractor::BodyReadError"]},{text:"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/fmt/trait.Debug.html\" title=\"trait core::fmt::Debug\">Debug</a> for <a class=\"struct\" href=\"yukikaze/client/response/struct.Response.html\" title=\"struct yukikaze::client::response::Response\">Response</a>",synthetic:false,types:["yukikaze::client::response::Response"]},{text:"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/fmt/trait.Debug.html\" title=\"trait core::fmt::Debug\">Debug</a> for <a class=\"enum\" href=\"yukikaze/client/response/enum.ResponseError.html\" title=\"enum yukikaze::client::response::ResponseError\">ResponseError</a>",synthetic:false,types:["yukikaze::client::response::ResponseError"]},];
+
+            if (window.register_implementors) {
+                window.register_implementors(implementors);
+            } else {
+                window.pending_implementors = implementors;
+            }
+        
+})()

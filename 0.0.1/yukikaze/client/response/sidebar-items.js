@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ResponseError","Describes possible response errors."]],"mod":[["extractor","Extractor module."]],"struct":[["FutureResponse","Ongoing HTTP request."],["Response","HTTP Response"]]});
