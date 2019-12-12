@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["GLOBAL_CLIENT","Global client instance"],["Request","Global request"]],"trait":[["GlobalRequest","Helper trait to convert request to global request."]]});

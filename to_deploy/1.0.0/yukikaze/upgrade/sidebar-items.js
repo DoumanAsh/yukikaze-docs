@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["CONNECTION_TYPE","Connection's header value for upgrade"]],"fn":[["upgrade_response","Utility to upgrade using hyper's upgrade mechanism"]],"mod":[["websocket","Websocket upgrade module"]],"trait":[["Upgrade","Describes upgrade protocol"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Either","Either variant."]],"struct":[["Pair","Create pair of futures that being processed together."]]});

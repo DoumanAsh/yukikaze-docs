@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["generated","Example of generated global client"]]});

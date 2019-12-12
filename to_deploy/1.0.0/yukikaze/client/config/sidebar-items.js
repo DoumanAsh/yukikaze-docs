@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DefaultCfg","Default configuration."]],"trait":[["Config","Generic config trait."]],"type":[["DefaultConnector","Default connector, which is used by DefaultCfg"],["DefaultTimer","Default timer, which is used by DefaultCfg"]]});

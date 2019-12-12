@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["config","Describes client configuration"],["request","Request primitives."],["response","Response primitives."]],"struct":[["Client","HTTP Client"]],"trait":[["HttpClient","Describes HTTP Client functionality"]]});

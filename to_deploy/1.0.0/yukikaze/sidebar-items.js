@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["declare_global_client","Declares global client for use."],["matsu","Await future in async context."]],"mod":[["client","Client module"],["connector","TLS module"],["extractor","Extractors module"],["header","Headers module"],["rt","Runtime module."],["upgrade","Upgrade extension for client side"],["utils","Yukikaze-sama utilities."]]});

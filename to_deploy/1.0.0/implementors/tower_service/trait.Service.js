@@ -1,0 +1,9 @@
+(function() {var implementors = {};
+implementors["yukikaze"] = [{text:"impl <a class=\"trait\" href=\"https://docs.rs/tower-service/0.3.0/tower_service/trait.Service.html\" title=\"trait tower_service::Service\">Service</a>&lt;<a class=\"struct\" href=\"https://docs.rs/http/0.2.0/http/uri/struct.Uri.html\" title=\"struct http::uri::Uri\">Uri</a>&gt; for <a class=\"struct\" href=\"yukikaze/connector/rustls/connector/struct.HttpsConnector.html\" title=\"struct yukikaze::connector::rustls::connector::HttpsConnector\">HttpsConnector</a>",synthetic:false,types:["yukikaze::connector::rustls::connector::HttpsConnector"]},{text:"impl <a class=\"trait\" href=\"https://docs.rs/tower-service/0.3.0/tower_service/trait.Service.html\" title=\"trait tower_service::Service\">Service</a>&lt;<a class=\"struct\" href=\"https://docs.rs/http/0.2.0/http/uri/struct.Uri.html\" title=\"struct http::uri::Uri\">Uri</a>&gt; for <a class=\"struct\" href=\"yukikaze/connector/rustls/connector/struct.HttpsOnlyConnector.html\" title=\"struct yukikaze::connector::rustls::connector::HttpsOnlyConnector\">HttpsOnlyConnector</a>",synthetic:false,types:["yukikaze::connector::rustls::connector::HttpsOnlyConnector"]},{text:"impl <a class=\"trait\" href=\"https://docs.rs/tower-service/0.3.0/tower_service/trait.Service.html\" title=\"trait tower_service::Service\">Service</a>&lt;<a class=\"struct\" href=\"https://docs.rs/http/0.2.0/http/uri/struct.Uri.html\" title=\"struct http::uri::Uri\">Uri</a>&gt; for <a class=\"struct\" href=\"yukikaze/connector/struct.HttpConnector.html\" title=\"struct yukikaze::connector::HttpConnector\">HttpConnector</a>",synthetic:false,types:["yukikaze::connector::HttpConnector"]},];
+
+            if (window.register_implementors) {
+                window.register_implementors(implementors);
+            } else {
+                window.pending_implementors = implementors;
+            }
+        })()

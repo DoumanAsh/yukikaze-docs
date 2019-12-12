@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["BodyReadError","Describes possible errors when reading body."],["Json","Reads raw bytes from HTTP Response and deserializes as JSON struct"],["Text","Reads String from HTTP Response."]],"struct":[["Etag","Extracts ETags from response."],["FileBody","Redirects body to file."],["RawBody","Reads raw bytes from HTTP Response"]]});

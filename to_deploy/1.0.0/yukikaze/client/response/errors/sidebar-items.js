@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ContentTypeError","Describes errors related to content type."]]});
